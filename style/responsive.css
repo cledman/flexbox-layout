@@ -1,0 +1,34 @@
+@media screen and (max-width:700px){
+    header .container{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .button{
+        margin-top: 5px;
+        width:300px;
+    }
+
+    .main-movie .container{
+        display: flex;
+        flex-direction: column;
+        height:90vh;
+        justify-items: start;
+
+        width: 90vw;
+    }
+
+    .main-movie .description{
+        height: 8vh;
+    }
+
+    .button{
+        width: 80vw;
+    }
+}
+
+@media screen and (min-width:1000px){
+    .description{
+        width:50%;
+    }
+}    
