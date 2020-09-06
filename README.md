@@ -22,7 +22,6 @@ This project is part from the course "Recreating Instagram home page" from [Digi
 
 *  Responsible layout using flexbox.
 *  Carousel using Owl Carousel 2 Lib
-*  Show more information just like movie description of title when mouse is over it.
 
 
 # Installation
@@ -38,13 +37,14 @@ This project is part from the course "Recreating Instagram home page" from [Digi
 
 * [HTML](https://www.w3schools.com/html/) to write the page, 
 * [CSS](https://www.w3schools.com/css/) to handle the styles, layout and rendering, 
-* [Owl Carousel 2](https://owlcarousel2.github.io/OwlCarousel2/) to handle Carousel
+* [Owl Carousel 2](https://owlcarousel2.github.io/OwlCarousel2/) to handle Carousel.
 
 
 # Future Implementations
 
 * We could make the page read a json file to load the movie posters.
 * We could do the movie preview when the user click on it.
+* Show more information just like movie description of title when mouse is over it. 
 
 
 Thanks to:
